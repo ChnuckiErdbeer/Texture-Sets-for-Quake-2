@@ -1,7 +1,7 @@
 # Texture-Sets-for-Quake-2
-I spent some time converting textures from various games to the q2 .wal format so they could be used for mapping and modding.
+Anachronox, Daikatana, Gunman Chronicles, Blood.
 
-Games I chose are Anachronox, Daikatana, Gunman Chronicles and Blood.
+I spent some time converting textures from various games to the q2 .wal format so they could be used for mapping and modding.
 
 I converted all textures to the quake 2 palette sublty color grading them beforehand to reduce artefacts. I used the original textures from the games exept for Blood where I used the Blood HDX high res textures. (https://www.moddb.com/mods/blood-xhd/addons/blood-xhd)
 
