@@ -7,7 +7,7 @@ I converted all textures to the quake 2 palette sublty color grading them before
 
 Also note, that while the textures are usable there is still stuff left to do. Some have experimental glow maps. Most dont. Animations don't work. And more. I may update that but would also not complain if someone else would do it. So feel free to go ahead.
 
-I am aware that we are still in a lagal grey zone here. The textures for Daikatana are available for free at https://bitbucket.org/daikatana13/daikatana/wiki/Downloads so i think Ion storm or whoever owns their games nowadays is ok with non commercial distribution of the assets. Gunman Chrincles is pretty much abandonware so i think i'ts ok too. 
+I am aware that we are still in a legal grey zone here. The textures for Daikatana are available for free at https://bitbucket.org/daikatana13/daikatana/wiki/Downloads so i think Ion storm or whoever owns their games nowadays is ok with non commercial distribution of the assets. Gunman Chrincles is pretty much abandonware so i think i'ts ok too. And for blood i contacted the moddb account of the texture pack. Dont have an answer right now but i can't see why there should be a problem. Hope im right.
 
 Still if you plan to map for Quake 2 using this textures, I think you should purchase the games. They are cheap, Gunman is free. And of course if you use the blood textures give credit to blood HDX. 
 ... give credit generally! :)
